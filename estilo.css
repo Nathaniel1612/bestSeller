@@ -1,0 +1,31 @@
+body{
+    background-color:#1b0204
+}
+
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: azure;
+}
+h1,h2{
+    color:#9c1607;
+}
+h3{
+    color: #9e3333;
+}
+
+.conteudo-principal{
+    width: 80%;
+    padding: 30px;
+    margin: 30px}
+
+    .conteudo-livro{
+    width: 75%;
+    padding: 30px;
+    margin: 30px;
+    border: solid rgb(102, 15, 15)2px;
+}
+.img{
+    width: 150px;
+    margin: 30px;;
+}
