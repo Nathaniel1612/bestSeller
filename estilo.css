@@ -1,5 +1,5 @@
 body{
-    background-color:#1b0204
+    background-color:#140102
 }
 
 body{
@@ -30,8 +30,20 @@ h3{
 }
 .img{
     width: 150px;
-    margin: 30px;;
+    margin: 30px;
 }
 p{
     font-size: x-large;
+}
+.sobre-mim{
+    width:80% ;
+    padding: 30px;
+    margin: 30px;
+    border: solid rgb(102, 15, 15) 2px;
+    border-radius: 25px;
+    box-shadow: 15px 10px #7c1409;
+}
+.eu{
+width: 250px;
+margin: 50px;
 }
